@@ -1,8 +1,8 @@
-# 🎮 gamecraft-bench - Benchmark your agents building games easily
+# 🎮 Gamecraft-bench - Benchmark your agents building games easily
 
 [![](https://img.shields.io/badge/Download-GameCraft-blue)](https://github.com/bertinebrocaded688/gamecraft-bench)
 
-## 📁 What is GameCraft-Bench
+## 📁 What is GameCraft-Bench ?
 
 GameCraft-Bench helps you measure how well AI agents create playable games inside real game engines. Use this tool to test if your software agents can build functional games from start to finish. Researchers and developers use it to see if agents understand game rules, environment setup, and player interaction. This benchmark provides the code and data necessary to track performance across different game types.
 
@@ -71,20 +71,26 @@ If the software stops or fails to run, check these items first:
 
 ## 📝 Frequently Asked Questions
 
-Can I switch the engine version?
+**Can I switch the engine version?** 
+
 We recommend using the exact version defined in the setup documentation. Changing the version causes conflicts with the existing game assets.
 
-How do I add my own agents?
+**How do I add my own agents?**
+
 Place your agent scripts in the "CustomAgents" folder. The system will detect them during the next initialization cycle.
 
-Does this work on virtual machines?
+**Does this work on virtual machines?**  
+
 This software requires direct access to your graphics hardware. Performance will suffer or fail entirely on virtual machines lacking proper physical hardware pass-through.
 
-Is there a cost to run these benchmarks?
+**Is there a cost to run these benchmarks?**  
+
 The software provided here is free to use for research and development. There are no fees for running the agents or accessing the data logs.
 
-What if the agent hangs?
+**What if the agent hangs?**  
+
 If an agent stops moving for more than five minutes, restart the process. This usually indicates a timeout in communication between the engine and the agent controller.
 
-Can I record the game output?
+**Can I record the game output?**  
+
 The engine features a built-in recorder. Enable "Capture Output" in the settings menu before starting the benchmark to save a video file of the generated games.

